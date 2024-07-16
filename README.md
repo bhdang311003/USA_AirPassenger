@@ -1,5 +1,7 @@
 # Phân tích dữ liệu và trực quan hóa
 
+6/2024
+
 Nội dung: Tổng hợp và phân tích dữ liệu về thông tin các chuyến bay ở Hoa Kỳ từ 2000 đến 2020 và trực quan hóa phân tích.
 
 Hình thức: làm nhóm 5 thành viên
